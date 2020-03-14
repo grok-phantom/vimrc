@@ -13,3 +13,6 @@
 [submodule "my_plugins/ultisnips"]
 	path = my_plugins/ultisnips
 	url = git@github.com:SirVer/ultisnips.git
+[submodule "my_plugins/vim-cpp-modern"]
+	path = my_plugins/vim-cpp-modern
+	url = git@github.com:bfrg/vim-cpp-modern.git

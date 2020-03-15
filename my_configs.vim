@@ -5,12 +5,12 @@ set clipboard=unnamed
 set shiftwidth=2
 set tabstop=2
 
-" YCM
-let g:ycm_global_ycm_extra_conf = '~/.vim_runtime/my_plugins/YouCompleteMe/.ycm_extra_conf.py'
-let g:ycm_python_binary_path = 'python'
-let g:ycm_confirm_extra_conf = 0
-let g:ycm_key_list_select_completion = ['<C-n>', '<Down>']
-let g:ycm_key_list_previous_completion = ['<C-p>', '<Up>']
+"" YCM
+"let g:ycm_global_ycm_extra_conf = '~/.vim_runtime/my_plugins/YouCompleteMe/.ycm_extra_conf.py'
+"let g:ycm_python_binary_path = 'python'
+"let g:ycm_confirm_extra_conf = 0
+"let g:ycm_key_list_select_completion = ['<C-n>', '<Down>']
+"let g:ycm_key_list_previous_completion = ['<C-p>', '<Up>']
 
 " Supertab setting
 let g:SuperTabDefaultCompletionType = '<C-n>'
